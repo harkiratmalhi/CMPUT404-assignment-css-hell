@@ -21,4 +21,11 @@ repository and (C) 2013 Abram Hindle visibile in the text.
 
 Code is licensed under the Apache 2.0 license.
 
+In the html files I linked to malhi.css
+In the html files I changed the names of the images used to what I have them named as locally. I could have also just specified the link to where the images are held by doing inpect on the image in my browser.
+
+Watched this video https://www.youtube.com/watch?v=y4gWr2fya0I&ab_channel=tutvid
+Used this to learn how to style images https://www.w3schools.com/css/css3_images.asp
+
+
 
